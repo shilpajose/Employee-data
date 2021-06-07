@@ -100,7 +100,7 @@ label{
       <a href="#" class="brand-logo">Employee Data</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="Addnew.php">Addnew</a></li>
-
+<li><a href="ChangePos.php">Change Position</a></li>
       </ul>
     </div>
   </nav>
